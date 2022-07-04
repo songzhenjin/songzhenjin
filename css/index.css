@@ -3747,7 +3747,7 @@ _:future,
   cursor: pointer;
 }
 #pagination .page-number.current {
-  background: #49b1f5;
+  background: #00c4b6;
   color: var(--white);
   cursor: default;
 }
@@ -5449,12 +5449,6 @@ blockquote.pullquote.right {
   --hlnumber-color: rgba(255,255,255,0.4);
   --hlscrollbar-bg: #1f1f1f;
   --hlexpand-bg: linear-gradient(180deg, rgba(23,23,23,0.6), rgba(23,23,23,0.9));
-}
-[data-theme='dark'] #web_bg {
-  index_img: url("https://s1.ax1x.com/2022/07/05/jYTuHx.jpg");
-  background-size: 100% 100%;
-  background-size: cover;
-  background-repeat: no-repeat center;
 }
 [data-theme='dark'] #web_bg:before,
 [data-theme='dark'] #footer:before,
