@@ -1321,8 +1321,8 @@ canvas:not(#ribbon-canvas),
   --blockquote-bg: rgba(73,177,245,0.1);
   --reward-pop: #f5f5f5;
   --toc-link-color: #666261;
-  --card-box-shadow: 0 3px 8px 6px rgba(7,17,27,0.06);
-  --card-hover-box-shadow: 0 3px 8px 6px rgba(7,17,27,0.15);
+  --card-box-shadow: 0 3px 8px 6px rgba(0,102,255,0.06);
+  --card-hover-box-shadow: 0 3px 8px 6px rgba(0,102,255,0.4);
 }
 html {
   height: 100%;
@@ -7157,11 +7157,14 @@ _:future,
   text-align: center;
   line-height: 1.2rem;
   cursor: pointer;
+  background: #f96d6d;
 }
 #pagination .page-number.current {
-  background: #00c4b6;
+  background: #49b1f5;
   color: var(--white);
-  cursor: default;
+  cursor: pointer;
+  font-weight: bold;
+  border-radius: 30%;
 }
 #pagination img.prev-cover,
 #pagination img.next-cover {
