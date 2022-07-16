@@ -2,6 +2,24 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>https://blog.cilicili.xyz/posts/4a17b157.html</loc>
+    
+    <lastmod>2022-07-16</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://blog.cilicili.xyz/posts/4a17b158.html</loc>
+    
+    <lastmod>2022-07-16</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
     <loc>https://blog.cilicili.xyz/categories/index.html</loc>
     
     <lastmod>2022-07-16</lastmod>
@@ -38,24 +56,6 @@
   </url>
   
   <url>
-    <loc>https://blog.cilicili.xyz/posts/4a17b158.html</loc>
-    
-    <lastmod>2022-07-15</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://blog.cilicili.xyz/posts/4a17b157.html</loc>
-    
-    <lastmod>2022-07-15</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
     <loc>https://blog.cilicili.xyz/link/index.html</loc>
     
     <lastmod>2022-07-05</lastmod>
@@ -74,14 +74,14 @@
 
   
   <url>
-    <loc>https://blog.cilicili.xyz/tags/JavaScript%E7%AE%97%E6%B3%95/</loc>
+    <loc>https://blog.cilicili.xyz/tags/JavaScript/</loc>
     <lastmod>2022-07-16</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
-    <loc>https://blog.cilicili.xyz/tags/%E5%AD%97%E8%8A%82%E8%B7%B3%E5%8A%A8%E5%89%8D%E7%AB%AF/</loc>
+    <loc>https://blog.cilicili.xyz/tags/%E5%AD%97%E8%8A%82%E8%B7%B3%E5%8A%A8/</loc>
     <lastmod>2022-07-16</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
