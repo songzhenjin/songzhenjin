@@ -1,10 +1,10 @@
+https://blog.cilicili.xyz/categories/index.html
+https://blog.cilicili.xyz/tags/index.html
+https://blog.cilicili.xyz/about/index.html
 https://blog.cilicili.xyz/posts/4a17b156.html
 https://blog.cilicili.xyz/posts/4a17b158.html
 https://blog.cilicili.xyz/posts/4a17b157.html
-https://blog.cilicili.xyz/about/index.html
 https://blog.cilicili.xyz/link/index.html
-https://blog.cilicili.xyz/categories/index.html
-https://blog.cilicili.xyz/tags/index.html
 https://blog.cilicili.xyz/
 https://blog.cilicili.xyz/tags/JavaScript%E7%AE%97%E6%B3%95/
 https://blog.cilicili.xyz/tags/%E5%AD%97%E8%8A%82%E8%B7%B3%E5%8A%A8%E5%89%8D%E7%AB%AF/
