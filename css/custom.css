@@ -35,22 +35,22 @@
   }
 }
 
-@font-face {
+/* @font-face {
   font-family: 'Ayuan';
   /* 字体名自定义即可 */
-  src: url('../font/Ayuan.TTF') format("truetype");
+  /* src: url('../font/Ayuan.TTF') format("truetype");
   /* 字体文件路径 */
-  font-display: swap;
-}
-@font-face {
+  /* font-display: swap;
+} */
+/* @font-face {
   font-family: 'Jet';
   /* 字体名自定义即可 */
-  src: url('../font/Jet.woff2') format("truetype");
+  /* src: url('../font/Jet.woff2') format("truetype");
   /* 字体文件路径 */
-  font-display: swap;
-}
+  /* font-display: swap;
+} */
 
-body,
+/* body,
 .gitcalendar {
   font-family: 'Jet','Ayuan' !important;
-}
+} */
