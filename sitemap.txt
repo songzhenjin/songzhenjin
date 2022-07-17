@@ -6,10 +6,10 @@ https://blog.cilicili.xyz/tags/index.html
 https://blog.cilicili.xyz/about/index.html
 https://blog.cilicili.xyz/link/index.html
 https://blog.cilicili.xyz/
-https://blog.cilicili.xyz/tags/HTML5/
-https://blog.cilicili.xyz/tags/%E9%9D%A2%E8%AF%95%E9%A2%98/
 https://blog.cilicili.xyz/tags/JavaScript/
 https://blog.cilicili.xyz/tags/%E5%AD%97%E8%8A%82%E8%B7%B3%E5%8A%A8/
 https://blog.cilicili.xyz/tags/CodeTop/
 https://blog.cilicili.xyz/tags/%E4%BB%A3%E7%A0%81%E9%9A%8F%E6%83%B3%E5%BD%95/
+https://blog.cilicili.xyz/tags/HTML5/
+https://blog.cilicili.xyz/tags/%E9%9D%A2%E8%AF%95%E9%A2%98/
 https://blog.cilicili.xyz/categories/%E5%89%8D%E7%AB%AF/
