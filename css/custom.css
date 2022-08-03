@@ -45,8 +45,3 @@
 .gitcalendar {
   font-family: 'Ayuan' !important;
 }
-
-#aside-content .card-info #card-info-btn {
-  border-radius: 5rem;
-  overflow: hidden;
-}
