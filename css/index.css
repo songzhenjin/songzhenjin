@@ -2658,6 +2658,7 @@ blockquote footer cite:before {
   line-height: 2.4;
   border-radius: 5rem;
   overflow: hidden;
+  padding-top: 4px;
 }
 #aside-content .card-info #card-info-btn span {
   padding-left: 0.5rem;
