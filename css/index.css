@@ -7154,7 +7154,7 @@ _:future,
 }
 #pagination .page-number {
   display: inline-block;
-  margin: 0 0.2rem;
+  margin: 0.2rem;
   min-width: 1.2rem;
   height: 1.2rem;
   text-align: center;
@@ -7167,7 +7167,8 @@ _:future,
   color: var(--white);
   cursor: pointer;
   font-weight: bold;
-  border-radius: 30%;
+  border-radius: 8px;
+  padding-top: 1px;
 }
 #pagination img.prev-cover,
 #pagination img.next-cover {
@@ -7549,7 +7550,7 @@ _:future,
 #rightside {
   position: fixed;
   right: -38px;
-  bottom: 250px;
+  bottom: 100px;
   z-index: 100;
   opacity: 0;
   -ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=0)";
@@ -7589,6 +7590,8 @@ _:future,
   color: var(--btn-color);
   text-align: center;
   font-size: 16px;
+  border-radius: 0.4rem;
+  padding-top: 2px;
 }
 #rightside > div > button:hover,
 #rightside > div > a:hover {
@@ -7813,7 +7816,7 @@ _:future,
   text-decoration: none !important;
 }
 .icon-V {
-  padding: 5px;
+  padding: 2px;
 }
 @-moz-keyframes CuteenPlanetMove {
   0% {
