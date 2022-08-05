@@ -2,6 +2,15 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>https://blog.cilicili.xyz/posts/4a17b157.html</loc>
+    
+    <lastmod>2022-08-05</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
     <loc>https://blog.cilicili.xyz/posts/4a17b158.html</loc>
     
     <lastmod>2022-08-05</lastmod>
@@ -74,15 +83,6 @@
   </url>
   
   <url>
-    <loc>https://blog.cilicili.xyz/posts/4a17b157.html</loc>
-    
-    <lastmod>2022-08-05</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
     <loc>https://blog.cilicili.xyz/categories/index.html</loc>
     
     <lastmod>2022-07-16</lastmod>
@@ -119,6 +119,27 @@
 
   
   <url>
+    <loc>https://blog.cilicili.xyz/tags/JavaScript/</loc>
+    <lastmod>2022-08-05</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://blog.cilicili.xyz/tags/%E5%AD%97%E8%8A%82%E8%B7%B3%E5%8A%A8/</loc>
+    <lastmod>2022-08-05</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://blog.cilicili.xyz/tags/CodeTop/</loc>
+    <lastmod>2022-08-05</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
     <loc>https://blog.cilicili.xyz/tags/%E6%AF%95%E4%B8%9A%E8%AE%BE%E8%AE%A1/</loc>
     <lastmod>2022-08-05</lastmod>
     <changefreq>weekly</changefreq>
@@ -147,6 +168,13 @@
   </url>
   
   <url>
+    <loc>https://blog.cilicili.xyz/tags/CSS/</loc>
+    <lastmod>2022-08-05</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
     <loc>https://blog.cilicili.xyz/tags/HTML5/</loc>
     <lastmod>2022-08-05</lastmod>
     <changefreq>weekly</changefreq>
@@ -161,28 +189,7 @@
   </url>
   
   <url>
-    <loc>https://blog.cilicili.xyz/tags/JavaScript/</loc>
-    <lastmod>2022-08-05</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>https://blog.cilicili.xyz/tags/%E5%AD%97%E8%8A%82%E8%B7%B3%E5%8A%A8/</loc>
-    <lastmod>2022-08-05</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>https://blog.cilicili.xyz/tags/CodeTop/</loc>
-    <lastmod>2022-08-05</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>https://blog.cilicili.xyz/tags/CSS/</loc>
+    <loc>https://blog.cilicili.xyz/tags/%E4%BB%A3%E7%A0%81%E9%9A%8F%E6%83%B3%E5%BD%95/</loc>
     <lastmod>2022-08-05</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
@@ -190,13 +197,6 @@
   
   <url>
     <loc>https://blog.cilicili.xyz/tags/%E6%8A%80%E5%B7%A7/</loc>
-    <lastmod>2022-08-05</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>https://blog.cilicili.xyz/tags/%E4%BB%A3%E7%A0%81%E9%9A%8F%E6%83%B3%E5%BD%95/</loc>
     <lastmod>2022-08-05</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
