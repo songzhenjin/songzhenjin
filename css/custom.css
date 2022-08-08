@@ -118,27 +118,3 @@ h1::before, h2::before, h3::before, h4::before, h5::before, h6::before {
   -webkit-animation: ccc 3.2s linear infinite ;
   animation: ccc 3.2s linear infinite ;
 }
-
-/* 颜色设置 */
-[data-theme=light] {
-  --sianx_popup: rgba(73, 177, 245,0.6);/* 白天 */
-}
-[data-theme=dark] {
-  --sianx_popup: #343434;/* 夜间 */
-}
-.snackbar-pos {
-  border-radius: 5px !important;/* 弹窗圆角 */
-  }
-.snackbar-container {
-  background: var(--sianx_popup) !important;/* 弹窗颜色 */
-}
-.snackbar-pos.top-left {
-  top:65px
-}
-.snackbar-container .action {
-  background-color:rgba(73, 177, 245,0) ;
-}
-/* 字体设置，没有自定义字体的可忽略，这边只是提醒一下 */
-.snackbar-container {
-  font-family: 'Ayuan', sans-serif !important; /* snackbar弹窗 */
-}
