@@ -38,7 +38,7 @@
 /* 字体 */
 @font-face {
   font-family: 'Ayuan';
-   src: url('/fontdest/Ayuan.TTF') format("truetype");
+   src: url('https://cdn.jsdelivr.net/gh/songzhenjin/songzhenjin@1.0/fontdest/Ayuan.TTF') format("truetype");
    font-display: swap;
 } 
  body,
