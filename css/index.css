@@ -7092,7 +7092,11 @@ _:future,
   text-align: center;
   line-height: 1.2rem;
   cursor: pointer;
-  background: #f96d6d;
+  background: #49b1f5;
+  color: var(--white);
+  border-radius: 8px;
+  padding-top: 1px;
+  font-weight: bold;
 }
 #pagination .page-number.current {
   background: #49b1f5;
