@@ -7082,6 +7082,7 @@ _:future,
   width: 100%;
 }
 #pagination .pagination {
+  margin-top: 10px;
   text-align: center;
 }
 #pagination .page-number {
@@ -7092,16 +7093,10 @@ _:future,
   text-align: center;
   line-height: 1.2rem;
   cursor: pointer;
-  background: #00c4b6;
-  color: var(--white);
-  border-radius: 8px;
-  padding-top: 1px;
-  font-weight: bold;
 }
 #pagination .page-number.current {
   background: #49b1f5;
   color: var(--white);
-  cursor: pointer;
   font-weight: bold;
   border-radius: 8px;
   padding-top: 1px;
@@ -7165,6 +7160,11 @@ _:future,
   display: block;
   overflow: hidden;
   height: 150px;
+}
+#pagination .prev-post:hover,
+#pagination .next-post:hover {
+  background: var(--btn-hover-color);
+  color: var(--btn-color);
 }
 #pagination .prev-post:hover img.prev-cover,
 #pagination .next-post:hover img.prev-cover,
