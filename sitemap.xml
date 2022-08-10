@@ -2,6 +2,33 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>https://blog.cilicili.xyz/posts/ab522f5f.html</loc>
+    
+    <lastmod>2022-08-10</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://blog.cilicili.xyz/posts/4a17b158.html</loc>
+    
+    <lastmod>2022-08-10</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://blog.cilicili.xyz/posts/927f1bda.html</loc>
+    
+    <lastmod>2022-08-10</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
     <loc>https://blog.cilicili.xyz/daodao/index.html</loc>
     
     <lastmod>2022-08-10</lastmod>
@@ -30,33 +57,6 @@
   
   <url>
     <loc>https://blog.cilicili.xyz/posts/4a17b157.html</loc>
-    
-    <lastmod>2022-08-05</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://blog.cilicili.xyz/posts/4a17b158.html</loc>
-    
-    <lastmod>2022-08-05</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://blog.cilicili.xyz/posts/ab522f5f.html</loc>
-    
-    <lastmod>2022-08-05</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://blog.cilicili.xyz/posts/927f1bda.html</loc>
     
     <lastmod>2022-08-05</lastmod>
     
@@ -160,7 +160,7 @@
   </url>
   
   <url>
-    <loc>https://blog.cilicili.xyz/tags/CodeTop/</loc>
+    <loc>https://blog.cilicili.xyz/tags/%E7%AE%97%E6%B3%95/</loc>
     <lastmod>2022-08-10</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
@@ -254,6 +254,13 @@
   
   <url>
     <loc>https://blog.cilicili.xyz/categories/%E5%90%8E%E7%AB%AF/</loc>
+    <lastmod>2022-08-10</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://blog.cilicili.xyz/categories/%E9%9D%A2%E8%AF%95%E5%AE%9D%E5%85%B8/</loc>
     <lastmod>2022-08-10</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
