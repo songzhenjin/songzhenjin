@@ -2,7 +2,7 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>https://blog.cilicili.xyz/posts/927f1bda.html</loc>
+    <loc>https://blog.cilicili.xyz/posts/bae2c202.html</loc>
     
     <lastmod>2022-09-02</lastmod>
     
@@ -11,7 +11,7 @@
   </url>
   
   <url>
-    <loc>https://blog.cilicili.xyz/posts/bae2c202.html</loc>
+    <loc>https://blog.cilicili.xyz/posts/927f1bda.html</loc>
     
     <lastmod>2022-09-02</lastmod>
     
@@ -155,6 +155,20 @@
 
   
   <url>
+    <loc>https://blog.cilicili.xyz/tags/Vue/</loc>
+    <lastmod>2022-09-02</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://blog.cilicili.xyz/tags/%E7%B3%BB%E7%BB%9F%E8%AE%BE%E8%AE%A1/</loc>
+    <lastmod>2022-09-02</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
     <loc>https://blog.cilicili.xyz/tags/JavaScript/</loc>
     <lastmod>2022-09-02</lastmod>
     <changefreq>weekly</changefreq>
@@ -170,20 +184,6 @@
   
   <url>
     <loc>https://blog.cilicili.xyz/tags/%E7%AE%97%E6%B3%95/</loc>
-    <lastmod>2022-09-02</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>https://blog.cilicili.xyz/tags/Vue/</loc>
-    <lastmod>2022-09-02</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>https://blog.cilicili.xyz/tags/%E7%B3%BB%E7%BB%9F%E8%AE%BE%E8%AE%A1/</loc>
     <lastmod>2022-09-02</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
