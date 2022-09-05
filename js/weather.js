@@ -16,8 +16,8 @@ WIDGET = {
     "fixed": "true",
     "vertical": "center",
     "horizontal": "center",
-    "left": "191",
-    "top": "19",
+    "left": "80",
+    "top": "18",
     "font-family": "Ayuan",
     "key": "5193df47d9ce44f9be30d2896c4fef89"
   }
