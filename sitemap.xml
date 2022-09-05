@@ -173,20 +173,6 @@
 
   
   <url>
-    <loc>https://blog.cilicili.xyz/tags/Node/</loc>
-    <lastmod>2022-09-05</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>https://blog.cilicili.xyz/tags/Express/</loc>
-    <lastmod>2022-09-05</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
     <loc>https://blog.cilicili.xyz/tags/JavaScript/</loc>
     <lastmod>2022-09-05</lastmod>
     <changefreq>weekly</changefreq>
@@ -222,14 +208,14 @@
   </url>
   
   <url>
-    <loc>https://blog.cilicili.xyz/tags/CSS/</loc>
+    <loc>https://blog.cilicili.xyz/tags/Node/</loc>
     <lastmod>2022-09-05</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
-    <loc>https://blog.cilicili.xyz/tags/Git/</loc>
+    <loc>https://blog.cilicili.xyz/tags/Express/</loc>
     <lastmod>2022-09-05</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
@@ -244,6 +230,20 @@
   
   <url>
     <loc>https://blog.cilicili.xyz/tags/Python/</loc>
+    <lastmod>2022-09-05</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://blog.cilicili.xyz/tags/CSS/</loc>
+    <lastmod>2022-09-05</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://blog.cilicili.xyz/tags/Git/</loc>
     <lastmod>2022-09-05</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
