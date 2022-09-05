@@ -118,3 +118,18 @@ h1::before, h2::before, h3::before, h4::before, h5::before, h6::before {
   -webkit-animation: ccc 3.2s linear infinite ;
   animation: ccc 3.2s linear infinite ;
 }
+
+#recent-posts > .recent-post-item{
+  transition: all 0.3s;
+  /* border: 2px solid #66627a; */
+  border-radius: 50px 25px 100px 25px;
+  overflow: hidden;
+  opacity: 0.95;
+  /* box-shadow: 0 12px 18px 2px rgb(204 204 204 / 17%); */
+}
+[data-theme='dark'] #recent-posts > .recent-post-item{
+  opacity: 0.9;
+  /* border: 2px solid #383a3f; */
+  border-radius: 50px 25px 100px 25px;
+  overflow: hidden;
+}
