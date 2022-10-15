@@ -1391,8 +1391,9 @@ a:hover {
 #site-subtitle,
 #site-name,
 #aside-content .author-info__name,
+font-family: 'Ayuan',
 #aside-content .author-info__description {
-  font-family: Titillium Web, 'PingFang SC', 'Hiragino Sans GB', 'Microsoft JhengHei', 'Microsoft YaHei', sans-serif;
+  font-family: 'Ayuan', Titillium Web, 'PingFang SC', 'Hiragino Sans GB', 'Microsoft JhengHei', 'Microsoft YaHei', sans-serif;
 }
 .is-center {
   text-align: center;
